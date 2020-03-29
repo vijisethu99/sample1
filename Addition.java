@@ -60,5 +60,6 @@ t1.requestFocus();
 }
 }
 }
-//<applet code=Add width=500 height=500></applet>
+//<applet code=Add width=500 height=500>
+//</applet>
 
